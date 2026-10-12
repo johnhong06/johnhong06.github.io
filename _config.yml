@@ -130,9 +130,9 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: johnhong06/johnhong06.github.io # <gh-username>/<repo>
-    repo_id: # 저장소 생성 + Discussions 켠 뒤 채움
+    repo_id: R_kgDOVFii-w
     category: Announcements
-    category_id: # 저장소 생성 + Discussions 켠 뒤 채움
+    category_id: DIC_kwDOVFii-84DH_er
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'
