@@ -1,0 +1,2 @@
+video,model,dtype,keep_top,frames,src_res,crop_res,full_ms,crop_ms,wall_s,out
+JPKYE9578.MOV,large,fp32,0.45,510,1080x1920,1080x864,127.36,86.38,133.6,JPKYE9578_large_fp32_cropcmp.mp4

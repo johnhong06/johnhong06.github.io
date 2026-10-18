@@ -1,0 +1,2 @@
+video,model,dtype,keep_top,cut_top,frames,src_res,crop_res,full_ms,crop_ms,wall_s,out
+IMG_E5065.MOV,large,fp32,0.5,0.25,1172,1218x1078,1218x270,90.79,37.45,159.5,IMG_E5065_large_fp32_cropcmp.mp4

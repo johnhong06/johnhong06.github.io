@@ -12,9 +12,10 @@ Live site: <https://johnhong06.github.io>
 | `_drafts/` | Unpublished drafts and post templates (not built in production) |
 | `_tabs/` | Sidebar pages (About, Categories, Tags, Archives) |
 | `assets/img/posts/<slug>/` | Images for each post |
+| `depth-anythingv2-test1/` | Videos and raw CSVs for the `실험` post, kept at the URLs of the former project site |
 | `_config.yml` | Site settings |
 
-Categories: `논문리뷰` (paper reviews) and `공부` (study notes).
+Categories: `논문리뷰` (paper reviews), `공부` (study notes) and `실험` (experiment notes).
 
 ## Writing a post
 
